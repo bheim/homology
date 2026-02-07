@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/homology/__init__.py
+src/homology/cli.py
+src/homology/embeddings.py
+src/homology/graph.py
+src/homology/holes.py
+src/homology/vault.py
+src/homology.egg-info/PKG-INFO
+src/homology.egg-info/SOURCES.txt
+src/homology.egg-info/dependency_links.txt
+src/homology.egg-info/entry_points.txt
+src/homology.egg-info/requires.txt
+src/homology.egg-info/top_level.txt
+tests/test_graph.py
+tests/test_holes.py
+tests/test_vault.py
